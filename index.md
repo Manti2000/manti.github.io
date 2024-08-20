@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
-# Header 1
+# About
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> Game Dev. VR, video games, and tech? More like my life's passion. Or obsession. Anyway..
+
+I am a full time Game Developer currently working on Vagrus - The Riven Realms. 
+I have also worked on Chicken Police: Into The Hive and Moses and Plato: Last Train To Clawville.
 
 ## Header 2
 
