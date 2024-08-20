@@ -3,98 +3,12 @@ layout: default
 ---
 # About
 
-> Game Dev. VR, video games, and tech? More like my life's passion. Or obsession. Anyway..
+I am a full time Game Developer currently working on [Vagrus - The Riven Realms](https://vagrus.com). 
+I have also worked on [Chicken Police: Into The Hive](https://chickenpolice.com) and [Moses and Plato: Last Train To Clawville](https://mosesandplato.com).
 
-I am a full time Game Developer currently working on Vagrus - The Riven Realms. 
-I have also worked on Chicken Police: Into The Hive and Moses and Plato: Last Train To Clawville.
+Recently I started crafting scripts for the Unity Asset Store to maybe ease the life of some Unity devs out there. You can them below.
 
-## Header 2
+# Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## [Scriptable Enums](https://assetstore.unity.com/packages/slug/293803)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](/assets/img/logo.jpg)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
